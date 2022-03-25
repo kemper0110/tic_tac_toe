@@ -21,7 +21,7 @@ int main()
 {
 	using namespace nana;
 
-	form fm(API::make_center(480, 480),
+	form fm(API::make_center(480, 520),
 		appear::decorate<appear::taskbar, appear::floating, appear::minimize>()
 	);
 	fm.caption("Tic-Tac-Toe");
