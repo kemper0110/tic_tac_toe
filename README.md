@@ -10,4 +10,4 @@ On Windows 10 looks like
 Compiles for Linux.
 Ubuntu pic related.
 
-![image](https://user-images.githubusercontent.com/57526733/160252754-1f27c506-8a83-44d1-9f62-5d72f44f6cfd.png)
+![image](https://user-images.githubusercontent.com/57526733/160252797-6f8827cf-1611-4cc3-989b-f420fbf1baf1.png)
